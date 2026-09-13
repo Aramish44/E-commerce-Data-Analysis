@@ -51,6 +51,9 @@ This project analyzes e-commerce order records using Python to uncover key reven
 
 ## Instructions to Run the Notebook
 1. **Clone the Repository:**
-   ```bash
+    ```bash
    git clone [https://github.com/Aramish44/E-commerce-Data-Analysis.git](https://github.com/Aramish44/E-commerce-Data-Analysis.git)
    cd E-commerce-Data-Analysis
+```bash
+   pip install pandas numpy matplotlib seaborn jupyter
+   jupyter notebook Task_01_EDA_Analysis.ipynb
