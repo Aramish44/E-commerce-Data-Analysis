@@ -1,4 +1,4 @@
-# E-Commerce Exploratory Data Analysis (EDA) & Business Insights
+# E-Commerce Data Analysis (EDA) & Business Insights
 
 ## Project Description
 This project analyzes e-commerce order records using Python to uncover key revenue drivers, customer purchasing habits, and return patterns. The goal is to clean messy transaction data, perform statistical feature analysis, evaluate multi-variable relationships, and provide actionable business recommendations to increase sales and reduce refund leakage.
@@ -51,9 +51,9 @@ This project analyzes e-commerce order records using Python to uncover key reven
 
 ## Instructions to Run the Notebook
 1. **Clone the Repository:**
-    ```bash
+   ```bash
    git clone [https://github.com/Aramish44/E-commerce-Data-Analysis.git](https://github.com/Aramish44/E-commerce-Data-Analysis.git)
    cd E-commerce-Data-Analysis
-```bash
+  ```bash
    pip install pandas numpy matplotlib seaborn jupyter
-   jupyter notebook Task_01_EDA_Analysis.ipynb
+   jupyter notebook Devixo_Task01.ipynb
